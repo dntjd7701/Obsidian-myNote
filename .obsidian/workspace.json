@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HIS/업무/A10이미지 저장 프로세스 정리.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7e1aa19b59b3c0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리스트.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8dc8c7178165089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "성능 개선.md",
+                "file": "새로운 노트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "성능 개선.md",
+                "file": "새로운 노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "성능 개선.md",
+                "file": "새로운 노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "성능 개선.md"
+                "file": "새로운 노트.md"
               }
             }
           },
@@ -205,8 +178,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d8dc8c7178165089",
+  "active": "74f15152d14c5139",
   "lastOpenFiles": [
+    "새로운 노트.md",
     "assets/Pasted image 20240926152014.png",
     "assets",
     "리스트.md",
@@ -247,7 +221,6 @@
     "img/Pasted image 20231110114013.png",
     "static",
     "img/Pasted image 20231110113935.png",
-    "img/Pasted image 20231109135659.png",
     "HIS/회의록/원무",
     "HIS/회의록/간호",
     "HIS/업무",
