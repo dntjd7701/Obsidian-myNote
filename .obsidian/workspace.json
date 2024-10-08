@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9b71fe7e76a284c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Git.md",
+                "file": "main/기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.50390243530273
+    "width": 237.5
   },
   "right": {
     "id": "8a39aa3dffdbfd5f",
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Git.md",
+                "file": "main/기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Git.md",
+                "file": "main/기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Git.md"
+                "file": "main/기존 노트를 정리하고, 새로운 노트를 시작합니다..md"
               }
             }
           },
@@ -192,10 +178,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a9b71fe7e76a284c",
+  "active": "f1128275e7e8949e",
   "lastOpenFiles": [
-    "기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
-    "Obsidian Git.md",
+    "main",
+    "main/Obsidian Git.md",
+    "main",
+    "main/Obsidian Git.md",
+    "main/기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
     "HIS/HIS dictionary.md",
     "HIS",
     "무제 폴더 1",
@@ -226,8 +215,6 @@
     "회사/WebMvcConfigurer를 활용한 MessageConvertor 확장.md",
     "회사/Canvas.md",
     "회사/BOM재고수급현황 쿼리 튜닝.md",
-    "회사/BOM 성능 최적화.md",
-    "회사/멘토링/Front/Rendering process.md",
     "우성/imgs/next-app.png",
     "imgs/next-app.png",
     "우성/imgs/iteration-protocol-interface.png",
@@ -241,7 +228,6 @@
     "HIS/회의록/간호",
     "HIS/업무",
     "HIS/회의록",
-    "HIS",
     "Todo.canvas"
   ]
 }
