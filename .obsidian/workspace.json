@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HIS dictionary.md",
+                "file": "기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HIS dictionary.md",
+                "file": "기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HIS dictionary.md",
+                "file": "기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HIS dictionary.md"
+                "file": "기존 노트를 정리하고, 새로운 노트를 시작합니다..md"
               }
             }
           },
@@ -180,9 +180,9 @@
   },
   "active": "f1128275e7e8949e",
   "lastOpenFiles": [
-    "HIS dictionary.md",
-    "HIS",
+    "HIS/HIS dictionary.md",
     "기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
+    "HIS",
     "무제 폴더 1",
     "assets/Pasted image 20240926152014.png",
     "assets",
