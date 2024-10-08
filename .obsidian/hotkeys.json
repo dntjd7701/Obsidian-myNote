@@ -29,6 +29,12 @@
         "Ctrl"
       ],
       "key": "`"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
     }
   ],
   "app:open-sandbox-vault": [
@@ -39,5 +45,6 @@
       ],
       "key": "O"
     }
-  ]
+  ],
+  "workspace:goto-tab-1": []
 }

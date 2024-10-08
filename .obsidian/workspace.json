@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "새로운 노트.md",
+                "file": "기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.50390243530273
+    "width": 239.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "8a39aa3dffdbfd5f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "새로운 노트.md",
+                "file": "기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "새로운 노트.md",
+                "file": "기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "새로운 노트.md"
+                "file": "기존 노트를 정리하고, 새로운 노트를 시작합니다..md"
               }
             }
           },
@@ -180,7 +181,7 @@
   },
   "active": "74f15152d14c5139",
   "lastOpenFiles": [
-    "새로운 노트.md",
+    "기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
     "assets/Pasted image 20240926152014.png",
     "assets",
     "리스트.md",
