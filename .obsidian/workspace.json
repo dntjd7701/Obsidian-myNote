@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46931729972f9d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "비동기 반복 패턴.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project/W.md",
+                "file": "비동기 반복 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project/W.md",
+                "file": "비동기 반복 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/W.md"
+                "file": "비동기 반복 패턴.md"
               }
             }
           },
@@ -186,9 +200,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e4e814dee1fd7b31",
+  "active": "511b097b9ae1a830",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "비동기 반복 패턴.md",
     "project/W.md",
     "project",
     "main/기존 노트를 정리하고, 새로운 노트를 시작합니다..md",
@@ -223,7 +237,6 @@
     "img/Pasted image 20231018090342.png",
     "HIS/회의록/원무/2024-06-04.md",
     "회사/업무사항.md",
-    "회사/WebMvcConfigurer를 활용한 MessageConvertor 확장.md",
     "우성/imgs/next-app.png",
     "imgs/next-app.png",
     "우성/imgs/iteration-protocol-interface.png",
